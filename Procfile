@@ -1,1 +1,1 @@
-python yeumoney_bot.py
+web: python yeumoney_bot.py
